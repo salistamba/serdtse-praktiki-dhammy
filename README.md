@@ -6,6 +6,8 @@
 
 PDF: https://salistamba.github.io/serdtse-praktiki-dhammy/serdtse_praktiki_dhammy.pdf
 
+English version: https://salistamba.github.io/the-heart-of-dhamma-practice/
+
 Содержит основные темы практики: четыре `ariyasacca`, восьмеричный путь, пять предписаний, `sīla`, `sati`, `samādhi`, джханы, `paṭiccasamuppāda`, `anattā`, `dukkha`, `taṇhā`, `upādāna`, `bhava`, пять `khandhā`, шесть сфер опыта и практические способы распознавания цепляния в повседневной жизни.
 
 Этот текст не претендует на окончательность или безошибочность, является рабочей картой для сверки, практики и дальнейшего уточнения.
